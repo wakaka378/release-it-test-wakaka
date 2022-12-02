@@ -1,5 +1,12 @@
 
 
+# [2.0.0-beta.0](https://github.com/wakaka378/release-it-test-wakaka/compare/1.1.0...2.0.0-beta.0) (2022-12-02)
+
+
+### Features
+
+* project init ([307a172](https://github.com/wakaka378/release-it-test-wakaka/commit/307a1727ff59c842e644a4acc6d43810ff9f57e2))
+
 # [1.1.0](https://github.com/wakaka378/release-it-test-wakaka/compare/1.0.9...1.1.0) (2022-12-02)
 
 
