@@ -1,0 +1,20 @@
+{
+  "name": "release-it-test-wakaka",
+  "version": "1.0.8",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "release-it"
+  },
+  "keywords": [],
+  "author": "code",
+  "license": "ISC",
+  "devDependencies": {
+    "@release-it/conventional-changelog": "^5.1.1",
+    "release-it": "^15.5.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
