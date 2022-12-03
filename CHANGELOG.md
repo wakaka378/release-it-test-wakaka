@@ -1,5 +1,7 @@
 
 
+# [3.0.0-rc.1](https://github.com/wakaka378/release-it-test-wakaka/compare/3.0.0-rc.0...3.0.0-rc.1) (2022-12-03)
+
 # [3.0.0-rc.0](https://github.com/wakaka378/release-it-test-wakaka/compare/2.0.0...3.0.0-rc.0) (2022-12-03)
 
 # [2.0.0](https://github.com/wakaka378/release-it-test-wakaka/compare/2.0.0-beta.0...2.0.0) (2022-12-03)

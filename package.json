@@ -1,6 +1,6 @@
 {
   "name": "release-it-test-wakaka",
-  "version": "3.0.0-rc.0",
+  "version": "3.0.0-rc.1",
   "description": "test",
   "main": "index.js",
   "scripts": {
