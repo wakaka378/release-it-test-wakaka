@@ -7,6 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "release": "release-it"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wakaka378/release-it-test-wakaka.git"
+  },
   "keywords": [],
   "author": "code",
   "license": "ISC",
