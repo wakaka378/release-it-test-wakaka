@@ -1,6 +1,6 @@
 {
   "name": "release-it-test-wakaka",
-  "version": "3.0.0-rc.1",
+  "version": "3.0.2",
   "description": "test",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "url": "git+https://github.com/wakaka378/release-it-test-wakaka.git"
   },
   "keywords": [],
-  "author": "code",
+  "homepage": "https://github.com/wakaka378/release-it-test-wakaka#readme",
+  "author": "",
   "license": "ISC",
   "devDependencies": {
     "@release-it/conventional-changelog": "^5.1.1",
